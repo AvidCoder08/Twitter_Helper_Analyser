@@ -25,7 +25,5 @@
 
 ## Working
 <p>
-  Download the code for the analyser and then download the tweets, make sure you replace the 'XXXX'with you keys. Then run the the analyser.
+  Download the code for the analyser and then download the tweets, make sure you replace the 'XXXX' with your twitter API keys, then run the the analyser.
 </p>
-
-### Demo
