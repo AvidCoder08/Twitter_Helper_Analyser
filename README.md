@@ -27,3 +27,6 @@
 <p>
   Download the code for the analyser and then download the tweets, make sure you replace the 'XXXX' with your twitter API keys, then run the the analyser.
 </p>
+
+## Support
+If you need any help with the analyser join my Discord: https://discord.gg/P9DMjkPtDW
